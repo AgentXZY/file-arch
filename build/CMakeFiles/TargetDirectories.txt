@@ -1,0 +1,3 @@
+D:/New folder/OneDrive/Desktop/FileArch/build/CMakeFiles/filearch.dir
+D:/New folder/OneDrive/Desktop/FileArch/build/CMakeFiles/ALL_BUILD.dir
+D:/New folder/OneDrive/Desktop/FileArch/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\New folder\OneDrive\Desktop\FileArch\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\New folder\OneDrive\Desktop\FileArch\src\commands\ShowTreeCommand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\New folder\OneDrive\Desktop\FileArch\src\commands\ShowSizeCommand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\New folder\OneDrive\Desktop\FileArch\src\core\TreeBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\New folder\OneDrive\Desktop\FileArch\src\core\FileSizeAnalyzer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\New folder\OneDrive\Desktop\FileArch\src\core\FolderPicker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\New folder\OneDrive\Desktop\FileArch\src\utils\IgnoreRules.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\New folder\OneDrive\Desktop\FileArch\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2871734B-2F22-396F-B764-7884064E3043}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

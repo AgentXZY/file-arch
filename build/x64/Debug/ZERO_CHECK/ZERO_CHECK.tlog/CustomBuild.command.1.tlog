@@ -1,0 +1,10 @@
+^D:\NEW FOLDER\ONEDRIVE\DESKTOP\FILEARCH\BUILD\CMAKEFILES\07AD115859123393C274EB1C7BB38195\GENERATE.STAMP.RULE
+setlocal
+D:\CMAKE_file\bin\cmake.exe "-SD:/New folder/OneDrive/Desktop/FileArch" "-BD:/New folder/OneDrive/Desktop/FileArch/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/New folder/OneDrive/Desktop/FileArch/build/FileArch.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
